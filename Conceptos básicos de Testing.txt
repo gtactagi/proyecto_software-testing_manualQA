@@ -1,0 +1,41 @@
+Conceptos básicos de Testing para tener presentes y en los cuales se basó el siguiente proyecto:
+
+Testear:
+Testear es simplemente probar un software o aplicación para asegurarse de que funcione como se espera. Es como revisar una receta que cocinaste para ver si sabe bien y no le falta ningún ingrediente.
+
+Fases de un Proyecto de Testing
+
+Un proyecto de testing suele pasar por varias etapas o fases:
+
+Planificación: Decidimos qué y cómo vamos a probar.
+
+Preparación de Casos de Prueba: Escribimos los pasos detallados de lo que vamos a probar.
+
+Ejecución de Pruebas: Seguimos los pasos que escribimos y vemos si todo funciona bien.
+
+Reporte de Errores: Si encontramos problemas, los anotamos para que los desarrolladores los arreglen.
+
+Evaluación: Revisamos todo lo que probamos, qué funcionó y qué no, y hacemos un informe final.
+
+Caso de Prueba:
+Un caso de prueba es un conjunto de pasos que seguimos para probar una parte específica del software. Es como una receta de cocina, pero para probar software. Incluye qué hacer, qué datos usar, y qué resultado esperamos obtener.
+
+Error o Defecto:
+Un error o defecto es cuando algo en el software no funciona como debería. Es como encontrar que una receta tiene demasiado o muy poco de un ingrediente, o que algo se quemó en el horno.
+
+Tipos de Testing
+Hay varios tipos de testing, cada uno con un enfoque diferente:
+
+Testing Funcional: Probamos si el software hace lo que se supone que debe hacer. Ejemplo: Si una app de tareas puede agregar y eliminar tareas.
+
+Testing No Funcional: Probamos cosas como la velocidad, seguridad y usabilidad del software. Ejemplo: Ver si la app carga rápido o si es fácil de usar.
+
+Testing de Regresión: Verificamos que las nuevas funciones no hayan roto las funciones viejas. Ejemplo: Después de agregar una nueva función, nos aseguramos de que las viejas aún funcionen bien.
+
+Testing Estructural: Miramos dentro del código para asegurarnos de que todo está bien organizado y funciona correctamente. Ejemplo: Revisar que el código no tenga errores ocultos.
+
+Testing de Verificación y Validación:
+
+Verificación: Asegurarse de que el software se hizo correctamente. Ejemplo: Revisar el código y la documentación.
+
+Validación: Asegurarse de que el software hace lo que se supone que debe hacer. Ejemplo: Probar la app con usuarios reales para ver si cumple con sus necesidades.
